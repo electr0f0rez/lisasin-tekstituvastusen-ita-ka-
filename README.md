@@ -1,7 +1,6 @@
 # lisasin-tekstituvastusen-ita-ka-
 parool
-
- //4 parool, if ja string andmetüüp
+//4 parool, if ja string andmetüüp
  Console.WriteLine("Programmi edasiseks tööks sisesta palun parool:");
  string password = Console.ReadLine();
 
